@@ -1,0 +1,203 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "ConEmu.Control.WinForms/1.21.9.5": {
+        "type": "package",
+        "dependencies": {
+          "ConEmu.Core": "21.9.5"
+        },
+        "compile": {
+          "lib/net40/ConEmu.WinForms.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net40/ConEmu.WinForms.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "ConEmu.Core/21.9.5": {
+        "type": "package",
+        "build": {
+          "Build/ConEmu.Core.Targets": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConEmu.Control.WinForms/1.21.9.5": {
+      "sha512": "7nog5wAb9J717ZCy2/3RSNjEsI8ZZEU/R3ucBVpJtzll+U0AFXaAjQccSak/mWL/+jtr4vtSIS4W97CKEaZZCA==",
+      "type": "package",
+      "path": "conemu.control.winforms/1.21.9.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "conemu.control.winforms.1.21.9.5.nupkg.sha512",
+        "conemu.control.winforms.nuspec",
+        "images/icon.png",
+        "lib/net40/ConEmu.WinForms.dll",
+        "lib/net40/ConEmu.WinForms.xml",
+        "license/license.txt"
+      ]
+    },
+    "ConEmu.Core/21.9.5": {
+      "sha512": "avfLYv5mzihW2FgdPk4alYJUEk/mWI8TrgcEgYXth69TZOzYZSzpnBNJDgPwYjlTl2IhAjQWXPYFz5JvcP4ZQQ==",
+      "type": "package",
+      "path": "conemu.core/21.9.5",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Build/ConEmu.Core.Targets",
+        "Tools/ConEmu/CmdInit.cmd",
+        "Tools/ConEmu/ConEmu.exe",
+        "Tools/ConEmu/ConEmu64.exe",
+        "Tools/ConEmu/ConEmuC.exe",
+        "Tools/ConEmu/ConEmuC64.exe",
+        "Tools/ConEmu/ConEmuCD.dll",
+        "Tools/ConEmu/ConEmuCD64.dll",
+        "Tools/ConEmu/ConEmuHk.dll",
+        "Tools/ConEmu/ConEmuHk64.dll",
+        "Tools/ConEmu/GitShowBranch.cmd",
+        "conemu.core.21.9.5.nupkg.sha512",
+        "conemu.core.nuspec",
+        "images/icon.png",
+        "license/license.txt"
+      ]
+    },
+    "Newtonsoft.Json/13.0.2": {
+      "sha512": "R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "ConEmu.Control.WinForms >= 1.21.9.5",
+      "Newtonsoft.Json >= 13.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\8Term-main\\8Term\\8Term.csproj",
+      "projectName": "8Term",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\8Term-main\\8Term\\8Term.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\8Term-main\\8Term\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "dependencies": {
+          "ConEmu.Control.WinForms": {
+            "target": "Package",
+            "version": "[1.21.9.5, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ConEmu.Control.WinForms 1.21.9.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ConEmu.Control.WinForms",
+      "targetGraphs": [
+        "net7.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\8Term.csproj.AssemblyReference.cache
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\_8Term.main.resources
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\8Term.csproj.GenerateResource.cache
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\8Term.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\8Term.AssemblyInfoInputs.cache
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\8Term.AssemblyInfo.cs
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\8Term.csproj.CoreCompileInputs.cache
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu\CmdInit.cmd
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmu.exe
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmu64.exe
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuC.exe
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuC64.exe
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuCD.dll
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuCD64.dll
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuHk.dll
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuHk64.dll
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu\GitShowBranch.cmd
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\8Term.exe
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\8Term.deps.json
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\8Term.runtimeconfig.json
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\8Term.dll
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\8Term.pdb
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\ConEmu.WinForms.dll
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\8Term.csproj.CopyComplete
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\8Term.dll
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\refint\8Term.dll
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\8Term.pdb
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\8Term.genruntimeconfig.cache
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\ref\8Term.dll
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\obj\Debug\net7.0-windows\_8Term.Properties.Resources.resources
+C:\Users\Dr Profi\Documents\Git_Repositorys\8Term\8Term\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu\CmdInit.cmd
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmu.exe
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmu64.exe
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuC.exe
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuC64.exe
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuCD.dll
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuCD64.dll
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuHk.dll
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu\ConEmuHk64.dll
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu\GitShowBranch.cmd
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\8Term.exe
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\8Term.deps.json
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\8Term.runtimeconfig.json
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\8Term.dll
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\8Term.pdb
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\ConEmu.WinForms.dll
+C:\Users\Administrator\Documents\8Term-main\8Term\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\8Term.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\_8Term.main.resources
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\_8Term.Properties.Resources.resources
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\8Term.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\8Term.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\8Term.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\8Term.AssemblyInfo.cs
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\8Term.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\8Term.csproj.CopyComplete
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\8Term.dll
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\refint\8Term.dll
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\8Term.pdb
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\8Term.genruntimeconfig.cache
+C:\Users\Administrator\Documents\8Term-main\8Term\obj\Debug\net7.0-windows\ref\8Term.dll
