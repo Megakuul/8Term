@@ -118,19 +118,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Linusss\\.nuget\\packages\\": {}
+    "C:\\Users\\megakuul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Linusss\\Documents\\Github_Repository\\8Term\\src\\8Term\\8Term.csproj",
+      "projectUniqueName": "C:\\Users\\megakuul\\Documents\\Repos\\8Term\\src\\8Term\\8Term.csproj",
       "projectName": "8Term",
-      "projectPath": "C:\\Users\\Linusss\\Documents\\Github_Repository\\8Term\\src\\8Term\\8Term.csproj",
-      "packagesPath": "C:\\Users\\Linusss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Linusss\\Documents\\Github_Repository\\8Term\\src\\8Term\\obj\\",
+      "projectPath": "C:\\Users\\megakuul\\Documents\\Repos\\8Term\\src\\8Term\\8Term.csproj",
+      "packagesPath": "C:\\Users\\megakuul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\megakuul\\Documents\\Repos\\8Term\\src\\8Term\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Linusss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\megakuul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
