@@ -20,7 +20,7 @@ namespace _8Term
 {
     public partial class main : Form
     {
-        private int _AppBarHeigt { get; } = 100;
+        private int _AppBarHeigt { get; set; }
         public main()
         {
             InitializeComponent();
@@ -30,11 +30,9 @@ namespace _8Term
 
         private void main_Load(object sender, EventArgs e)
         {
-            
-            //loadTabs(JsonInterface.deserializeJsonConfig("asdf"));
-            initConsole(mainTabControlr, "Hallo", "explorer.exe");
-            initConsole(mainTabControlr, "Hallo2", null); 
-            initConsole(mainTabControlr, "Hallo3", "cmd");
+            _AppBarHeigt = connectionBx.Height + 50;
+            loadConnections(JsonInterface.deserializeJsonConfig("conf.eterm"));
+            initConsole(mainTabControlr, "Hallo2", null);
         }
 
         protected override void OnResize(EventArgs e)
@@ -63,20 +61,24 @@ namespace _8Term
         }
         private void resizeMainTabControlr()
         {
-            mainTabControlr.Size = new Size(this.Size.Width, this.Size.Height-_AppBarHeigt);
+            mainTabControlr.Size = new Size(this.Size.Width, this.Size.Height - _AppBarHeigt);
         }
-
-        private void loadTabs(JObject config)
+        private void loadConnections(JObject config)
         {
-            foreach (ConEmuControl control in ConsoleList)
+            connectionTree.Nodes.Clear();
+            JObject Object = (JObject)config["Connections"];
+
+            foreach (JProperty folder in Object.Properties())
             {
-                control.RunningSession.CloseConsoleEmulator();
+                var curNod = connectionTree.Nodes.Add((folder).Name);
+
+                foreach (JToken connection in folder.Values())
+                {
+                    curNod.Nodes.Add(((JProperty)connection).Name);
+                    //Attach Connection information to the Node with Node.Tag
+                }
             }
-            ConsoleList.Clear();
-
-            JObject Object = (JObject)config["Tabs"];
-
-            MessageBox.Show(Object.HasValues.ToString());
+            
         }
 
         private bool initConsole(TabControl tabControl, string tabTitle, string? startupCommand)

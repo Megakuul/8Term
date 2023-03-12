@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "/vW46ckYdM86uHVi/U7obzaCBCRcE4xyPeTBE2L4q3Q3evGP8Asg3VLYwDPwi11M/rcvcdocwVAW0nuVOer3xg==",
+  "dgSpecHash": "g19+vjOwGCfaQj17OExlrbniScJTy50P0XcGcScA7HiK67+6qaiVo/T0mMUR8ZboFD0UDuCFz3g943HdXQsHAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Documents\\8Term-main\\8Term\\8Term.csproj",
+  "projectFilePath": "C:\\Users\\Linusss\\Documents\\Github_Repository\\8Term\\src\\8Term\\8Term.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\conemu.control.winforms\\1.21.9.5\\conemu.control.winforms.1.21.9.5.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\conemu.core\\21.9.5\\conemu.core.21.9.5.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "C:\\Users\\Linusss\\.nuget\\packages\\conemu.control.winforms\\1.21.9.5\\conemu.control.winforms.1.21.9.5.nupkg.sha512",
+    "C:\\Users\\Linusss\\.nuget\\packages\\conemu.core\\21.9.5\\conemu.core.21.9.5.nupkg.sha512",
+    "C:\\Users\\Linusss\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'ConEmu.Control.WinForms 1.21.9.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net7.0-windows7.0'. This package may not be fully compatible with your project.",
+      "message": "Das Paket \"ConEmu.Control.WinForms 1.21.9.5\" wurde nicht mit dem Projektzielframework \"net7.0-windows7.0\", sondern mit \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" wiederhergestellt. Dieses Paket ist mit Ihrem Projekt möglicherweise nicht vollständig kompatibel.",
       "libraryId": "ConEmu.Control.WinForms",
       "targetGraphs": [
         "net7.0-windows7.0"

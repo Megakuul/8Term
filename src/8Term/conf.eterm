@@ -1,0 +1,24 @@
+{
+	"Connections": {
+		"NetscapeCons":{
+			"SRVKUBM01": {
+				"constr": "powershell",
+				"desc": "Beschreibung power"
+			},
+			"SRVKUBM02": {
+				"constr": "ssh",
+				"desc":"Beschreibung"
+			}
+		},
+		"SkalaCons": {
+			"SRVSCALA01": {
+				"constr": "halsmaul",
+				"desc": "Javadescription"
+			},
+			"SRVICHBINEINMICROSOFTHUAN": {
+				"constr": "cmd",
+				"desc": "Microdescription"
+			}
+		}
+	}
+}
